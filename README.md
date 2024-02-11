@@ -1,5 +1,5 @@
 # 💜 About Me:
-📚🎓 I’m currently a student at ACS UPB<br>💼 I’m looking for a job<br>🤝 I’m a friendly person<br>📈 I’m a person eager to learn more<br>💭 Ask me anything<br>🦢 Random fact: I've made mods for a few games
+📚🎓 I’m currently a student at ACS UPB<br>💼 I’m looking for a job<br>🤝 I’m a friendly person<br>📈 I always want to learn more<br>💭 Ask me anything<br>🦢 Random fact: I've made mods for a few games
 
 
 ## 📱 Socials:
