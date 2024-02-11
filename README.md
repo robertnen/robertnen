@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💜 About Me:
 📚🎓 I’m currently a student at ACS UPB<br>💼 I’m looking for a job<br>🤝 I’m a friendly person<br>📈 I’m a person eager to learn more<br>💭 Ask me anything<br>🦢 Random fact: I've made mods for a few games
 
 
-## 🌐 Socials:
+## 📱 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nl8_robert) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/george-robert-nenciu-b23813245) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Lucky8boyRo) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Lucky8boy) 
 
 # 💻 Tech Stack:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Lucky8boy&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🤝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Lucky8boy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
