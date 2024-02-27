@@ -1,7 +1,12 @@
 <section align="center">
-  <a href="https://instagram.com/nl8_robert" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/george-robert-nenciu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Linkedin"/></a>
-  <a href="https://reddit.com/user/Lucky8boyRo" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"/></a>
+  <div>
+    <img src="./cat_dev.gif" alt="Dev cat" width="240" height="240"/>
+  </div>
+  <div>
+    <a href="https://instagram.com/nl8_robert" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://linkedin.com/in/george-robert-nenciu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+    <a href="https://reddit.com/user/Lucky8boyRo" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"/></a>
+  </div>
 </section>
 
 # 💜 About Me:
@@ -23,15 +28,14 @@
           
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=robertnen&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=robertnen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=robertnen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<section style="display:inline-block;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertnen&theme=dark&hide_border=false" width="495" height="195" style="margin:0px;" alt="Github Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertnen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="375" height="195" style="margin:0px;" alt="Github Streak Stats 2"/>
+</section>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=robertnen&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-### 🤝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=robertnen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=robertnen&icon=7&color=11)](https://visitcount.itsvg.in)
