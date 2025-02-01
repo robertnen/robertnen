@@ -38,4 +38,4 @@
 
 
 ---
-![](https://komarev.com/ghpvc/?username=robertnen&color=blueviolet&style=for-the-badge&label=PROFILE+348&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=robertnen&color=blueviolet&style=for-the-badge&label=Views&abbreviated=true&base=348)
