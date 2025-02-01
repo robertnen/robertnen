@@ -9,8 +9,8 @@
   </div>
 </section>
 
-# 💜 About Me:
-📚🎓 I’m currently a student at ACS UPB<br>💼 I’m looking for a job<br>🤝 I’m a friendly person<br>📈 I always want to learn more<br>💭 Ask me anything<br>🦢 Random fact: I've made mods for a few games
+# About Me:
+📚🎓 I’m currently a student at ACS UPB<br>ඞ Coding and video games fan<br>💭 Ask me anything<br>🦢 Random fact: I've made mods for a few games
 
 # 💻 Tech Stack:
 <section style="display: inline-block;">
@@ -20,17 +20,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 </section>
           
 
 # 📊 GitHub Stats:
 <section style="display:inline-block;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertnen&theme=dark&hide_border=false" width="396" height="156" style="margin:0px;" alt="Github Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertnen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="240" height="132" style="margin:0px;" alt="Github Streak Stats 2"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertnen&theme=dark&hide_border=false" width="396" height="156" style="margin:0px; display: block;" alt="Github Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertnen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="396" height="156" style="margin:0px; display: block;" alt="Github Streak Stats 2"/>
 </section>
 
 ## 🏆 GitHub Trophies
