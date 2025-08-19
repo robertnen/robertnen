@@ -2,15 +2,7 @@
   <div>
     <img src="./cat_dev.gif" alt="Dev cat" width="240" height="240"/>
   </div>
-  <div>
-    <a href="https://instagram.com/nl8_robert" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://linkedin.com/in/george-robert-nenciu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Linkedin"/></a>
-    <a href="https://reddit.com/user/Lucky8boyRo" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"/></a>
-  </div>
 </section>
-
-# About Me:
-📚🎓 I’m currently a student at ACS UPB<br>ඞ Coding and video games fan<br>💭 Ask me anything<br>🦢 Random fact: I've made mods for a few games
 
 # 💻 Tech Stack:
 <section style="display: inline-block;">
@@ -34,4 +26,4 @@
 
 
 ---
-![](https://komarev.com/ghpvc/?username=robertnen&color=blueviolet&style=for-the-badge&label=Views&abbreviated=true&base=348)
+![](https://komarev.com/ghpvc/?username=robertnen&color=blueviolet&style=for-the-badge&label=Views&abbreviated=true&base=605)
