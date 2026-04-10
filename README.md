@@ -18,9 +18,5 @@
 # 📊 GitHub Stats:
 <section style="display:inline-block;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertnen&theme=dark&hide_border=false" width="396" height="156" style="margin:0px; display: block;" alt="Github Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertnen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="396" height="156" style="margin:0px; display: block;" alt="Github Streak Stats 2"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertnen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="396" height="156" style="margin:0px; display: block;" alt=""/>
 </section>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=robertnen&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
