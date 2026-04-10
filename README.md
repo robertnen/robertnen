@@ -24,6 +24,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=robertnen&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-
----
-![](https://komarev.com/ghpvc/?username=robertnen&color=blueviolet&style=for-the-badge&label=Views&abbreviated=true&base=605)
